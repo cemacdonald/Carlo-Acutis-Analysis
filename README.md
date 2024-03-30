@@ -1,9 +1,7 @@
 # carlo-acutis-analysis
 analyzing the data on the website http://www.miracolieucaristici.org/ by Carlo Acutis
 
-This repository is currently ongoing
-
-Notebooks Finished:
+Finished:
 - Timeline of Miracles in countries throughout history
 
 Currently Working On:
