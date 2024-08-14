@@ -7,6 +7,6 @@ Currently Working On:
 - Eucharistic miracles of the saints throughout history
 
 
-### IF YOU WOULD LIKE TO USE THIS CODE AND DATASETS TO MAKE YOUR OWN GRAPHS ...
+### IF YOU WOULD LIKE TO USE THESE FILES TO MAKE YOUR OWN GRAPHS ...
 
 please feel free to do so lol
